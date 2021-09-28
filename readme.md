@@ -1,5 +1,4 @@
-#Vanilla Gallery
-____
+# Vanilla Gallery
 
 ![npm (Scoped)](https://img.shields.io/npm/v/vanilla-gallery)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/vanilla-gallery)
