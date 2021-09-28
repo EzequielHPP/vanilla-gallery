@@ -1,0 +1,11 @@
+{
+  "name": "vanilla-gallery",
+  "version": "1.0.0",
+  "description": "Simple Vanilla JS Gallery with zoom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ezequiel Pereira",
+  "license": "ISC"
+}
